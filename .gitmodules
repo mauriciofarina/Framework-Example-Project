@@ -1,0 +1,3 @@
+[submodule "main/core"]
+	path = main/core
+	url = https://github.com/mauriciofarina/Framework-Core-Example.git
